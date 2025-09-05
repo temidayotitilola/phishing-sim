@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.db
+instance/
+*.sqlite3
+.env
+
+# Virtual Environment
+.venv/
+env/
+venv/
+ENV/
+.env.bak
+.envrc
+
+# VSCode
+.vscode/
+
+# Logs
+*.log
+
+# Byte-compiled / cache
+*.egg-info/
+.eggs/
+*.bak
+*.swp
+.DS_Store
+Thumbs.db
