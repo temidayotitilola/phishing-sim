@@ -82,5 +82,5 @@ Tracking link to detect clicks
 Dashboard shows all campaigns with open/click status.
 
 [![Phishing Simulation Banner](/images/ph1.PNG)]
-[![Phishing Simulation Banner](/images/ph2 .PNG)]
+[![Phishing Simulation Banner](/images/ph2.PNG)]
 [![Phishing Simulation Banner](/images/ph3.PNG)]
